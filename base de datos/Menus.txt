@@ -1,0 +1,17 @@
+Gestión de Usaurios
+Gestión de Plantas
+Gestión de Seguimientos + código de barras
+Gestión de Pedidos
+Gestión de Inventario
+Gestión de almacen
+ -tierra, bolsas, macetas, abono, químicos
+ Gestión de insumos
+Gestión de Ventas
+Gestión de ingresos y egresos
+Gestión de catálogo
+
+APP
+ -Gestión de seguimiento de estatus por codigo de barras
+ -Conocer la etapa de crecimiento de las plantas (inventario)
+ -calculadora para la venta
+
