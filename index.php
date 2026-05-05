@@ -12,6 +12,8 @@ else if ($menu=='panel'){
 }else{
     include 'views/Error404View.php';
 }
+//misa
+
 
 
 ?>
